@@ -6,5 +6,6 @@ const StyledText = styled.p`
 	margin-right: 48px;
 	font-size: 15px;
 	line-height: 1.5rem;
+	font-family: 'Lexend Deca', sans-serif;
 `;
 export { StyledText };

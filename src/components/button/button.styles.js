@@ -4,7 +4,8 @@ const StyledButton = styled.button`
 	color: ${({ $color }) => $color};
 	width: 50%;
 	margin-left: 48px;
-	margin-top: 83px;
+
+	margin-top: 48px;
 	padding: 15px;
 	border-radius: 20px;
 	border: none;
